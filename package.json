@@ -1,0 +1,17 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stellar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "lodash": "^4.17.20",
+    "stellar-base": "^3.0.4",
+    "stellar-sdk": "^5.0.4"
+  }
+}
